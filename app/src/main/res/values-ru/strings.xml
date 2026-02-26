@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Арт-пространство</string>
+
+    <!-- Кнопки -->
+    <string name="previous">Назад</string>
+    <string name="next">Вперед</string>
+
+    <!-- Описания для доступности -->
+    <string name="artwork_default_description">Изображение произведения искусства</string>
+    <string name="artwork_description">Произведение: %1$s, автор %2$s, %3$s год</string>
+
+    <!-- Коллекция произведений искусства -->
+    <string name="art_1_title">Звездная ночь</string>
+    <string name="art_1_artist">Винсент Ван Гог</string>
+    <string name="art_1_year">1889</string>
+
+    <string name="art_2_title">Мона Лиза</string>
+    <string name="art_2_artist">Леонардо да Винчи</string>
+    <string name="art_2_year">1503</string>
+
+    <string name="art_3_title">Крик</string>
+    <string name="art_3_artist">Эдвард Мунк</string>
+    <string name="art_3_year">1893</string>
+
+    <string name="art_4_title">Девушка с жемчужной сережкой</string>
+    <string name="art_4_artist">Ян Вермеер</string>
+    <string name="art_4_year">1665</string>
+
+    <string name="art_5_title">Постоянство памяти</string>
+    <string name="art_5_artist">Сальвадор Дали</string>
+    <string name="art_5_year">1931</string>
+</resources>

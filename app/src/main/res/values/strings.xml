@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Laba2</string>
+    <string name="app_name">Art Space</string>
+
+    <!-- Кнопки -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <!-- Описания для доступности -->
+    <string name="artwork_default_description">Artwork image</string>
+    <string name="artwork_description">Artwork: %1$s by %2$s, %3$s</string>
+
+    <!-- Коллекция произведений искусства -->
+    <string name="art_1_title">Starry Night</string>
+    <string name="art_1_artist">Vincent van Gogh</string>
+    <string name="art_1_year">1889</string>
+
+    <string name="art_2_title">Mona Lisa</string>
+    <string name="art_2_artist">Leonardo da Vinci</string>
+    <string name="art_2_year">1503</string>
+
+    <string name="art_3_title">The Scream</string>
+    <string name="art_3_artist">Edvard Munch</string>
+    <string name="art_3_year">1893</string>
+
+    <string name="art_4_title">Girl with a Pearl Earring</string>
+    <string name="art_4_artist">Johannes Vermeer</string>
+    <string name="art_4_year">1665</string>
+
+    <string name="art_5_title">The Persistence of Memory</string>
+    <string name="art_5_artist">Salvador Dalí</string>
+    <string name="art_5_year">1931</string>
 </resources>
